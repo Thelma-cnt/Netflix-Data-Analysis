@@ -79,7 +79,7 @@ The interactive Netflix Data Analysis Dashboard is available in the [`dashboards
 
 Preview:
 
-![Netflix Dashboard Preview](dashboards/netflix_dashboard_preview.png)
+![Netflix Dashboard Preview](netflix dashboard.jpg)
 
 ---
 
