@@ -1,7 +1,7 @@
 # Netflix-Data-Analysis
 An exploratory data analysis project on Netflix Movies &amp; TV Shows using Microsoft Excel. Focused on uncovering content trends, visualizing key metrics, and building an interactive dashboard.
 
-## 💡 Project Overview
+## Project Overview
 
 This project explores Netflix's catalog of Movies and TV Shows using data sourced from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows).  
 The dataset contains 12 columns and 8,807 rows, representing various metadata about the content, such as:
@@ -21,7 +21,7 @@ The dataset contains 12 columns and 8,807 rows, representing various metadata ab
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Understand trends in Netflix's content.
 - Analyze content distribution by country, rating, release year, and genre.
@@ -30,13 +30,13 @@ The dataset contains 12 columns and 8,807 rows, representing various metadata ab
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel (Data Cleaning, Analysis & Visualization)
 
 ---
 
-## 🧹 Methodology
+## Methodology
 
 ### 1. Data Preparation & Cleaning
 - Downloaded the dataset from Kaggle in `.csv` format.
@@ -65,12 +65,12 @@ The dataset contains 12 columns and 8,807 rows, representing various metadata ab
   - **Doughnut Chart** for Movies vs TV Shows ratio.
   - **Stacked Area Chart** for content release trends over years.
   - **Column Chart** for top 10 countries with the most content.
-  > 🎨 **Design Note:**  
+  > **Design Note:**  
 > Dark and red-themed visual style was chosen to align with Netflix's brand colors.
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
 The interactive Netflix Data Analysis Dashboard is available in the [`dashboards/`](dashboards/) folder.
 
@@ -83,7 +83,7 @@ Preview:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - U.S. dominates Netflix’s content library.
 - Majority of content is rated for mature audiences (`TV-MA`).
@@ -93,14 +93,14 @@ Preview:
 
   ---
 
-## ⚠️ Limitations
+## Limitations
 
 - External factors (e.g., competition, global events like COVID-19) were not factored into the dataset.
 - User preferences, engagement behavior, and real-world viewership data were beyond the scope.
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 - **Genre Optimization:** Prioritize popular sub-genres in Drama and Comedy.
 - **Content Diversification:** Balance investment between Movies, TV Shows, Documentaries, and regional content.
@@ -108,7 +108,7 @@ Preview:
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 - Apply these lessons to larger, more complex datasets.
 - Continuously improve data handling and visualization techniques in future projects.
