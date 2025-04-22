@@ -72,14 +72,14 @@ The dataset contains 12 columns and 8,807 rows, representing various metadata ab
 
 ## Dashboards
 
-The interactive Netflix Data Analysis Dashboard is available in the [`dashboards/`](dashboards/) folder.
+The interactive Netflix Data Analysis Dashboard is available in the [`dashboards/`](Netflix excel dashboard.xlsx) folder.
 
-- `netflix_dashboard.xlsx`: Full Excel dashboard file.
-- `netflix_dashboard_preview.png`: Quick preview of the final visual layout.
+- `Netflix_excel_dashboard.xlsx`: Full Excel dashboard file.
+- `netflix_dashboard.png`: Quick preview of the final visual layout.
 
 Preview:
 
-![Netflix Dashboard Preview](netflix dashboard.png)
+![netflix_dashboard Preview](netflix_dashboard.png)
 
 ---
 
