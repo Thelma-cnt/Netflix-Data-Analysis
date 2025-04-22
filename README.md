@@ -22,11 +22,11 @@ The dataset contains 12 columns and 8,807 rows, representing various metadata ab
 ---
 
 ## Objectives
-
-- Understand trends in Netflix's content.
-- Analyze content distribution by country, rating, release year, and genre.
-- Identify the top contributing countries.
-- Visualize key metrics to extract actionable insights.
+  To:
+- understand trends in Netflix's content.
+- analyze content distribution by country, rating, release year, and genre.
+- identify the top contributing countries.
+- visualize key metrics to extract actionable insights.
 
 ---
 
@@ -39,27 +39,27 @@ The dataset contains 12 columns and 8,807 rows, representing various metadata ab
 ## Methodology
 
 ### 1. Data Preparation & Cleaning
-- Downloaded the dataset from Kaggle in `.csv` format.
-- Converted to Excel Workbook for analysis.
-- Managed missing values:
-  - Replaced missing `Director` names with real values when possible.
+- I Downloaded the dataset from Kaggle in `.csv` format.
+- I Converted to Excel Workbook for analysis.
+- I Managed missing values:
+  - I Replaced missing `Director` names with real values when possible.
   - Remaining gaps were labeled as `"NA"` or `"Not provided"`.
   - Duplicates were removed using Excel’s built-in tools.
 - Text standardization was applied (consistent text cases, date formats, etc.).
-- Dropped irrelevant columns (e.g., `Description`).
+- I Dropped irrelevant columns (e.g., `Description`).
 
 ---
 
 ### 2. Data Analysis
 
-- Created Pivot Tables to summarize KPIs.
-- Focused on genre distribution, rating frequency, content release over time, and country-wise production stats.
+- I Created Pivot Tables to summarize KPIs.
+- I Focused on genre distribution, rating frequency, content release over time, and country-wise production stats.
 
 ---
 
 ### 3. Data Visualization
 
-- Designed the layout for the dashboard manually before implementation.
+- I Designed the layout for the dashboard manually before implementation.
 - Used:
   - **Bar Charts** for genres and ratings.
   - **Doughnut Chart** for Movies vs TV Shows ratio.
@@ -105,12 +105,5 @@ Preview:
 - **Genre Optimization:** Prioritize popular sub-genres in Drama and Comedy.
 - **Content Diversification:** Balance investment between Movies, TV Shows, Documentaries, and regional content.
 - **Localization Strategy:** Focus on emerging content markets such as North Africa and Asia.
-
----
-
-## Next Steps
-
-- Apply these lessons to larger, more complex datasets.
-- Continuously improve data handling and visualization techniques in future projects.
 
 
